@@ -1,0 +1,10 @@
+streamlit
+fpdf2
+yfinance
+beautifulsoup4
+requests
+pandas
+PyPDF2
+openai
+langchain-core
+langchain-community
